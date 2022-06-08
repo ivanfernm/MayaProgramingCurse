@@ -1,0 +1,2 @@
+# MayaProgramingCurse
+ Phyton/Maya
